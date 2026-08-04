@@ -51,8 +51,8 @@ I engineer scalable SaaS ecosystems, enterprise architectures, and AI-driven aut
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmNexuss&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmNexuss&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmNexuss&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmNexuss&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="175" />
 </p>
 
 ---

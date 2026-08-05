@@ -40,6 +40,12 @@ I engineer scalable SaaS ecosystems, enterprise architectures, and AI-driven aut
 #### ⚙️ 1. Enterprise Platforms & Web Ecosystems
 - **Case Study — HubYapı Infrastructure:** Developed an industrial enterprise platform featuring zero-runtime multi-language routing (`i18n`), edge middleware IP-restricted access control, and dynamic CMS capabilities via Next.js & Prisma.
 
+1)📊 OmNexus Central Hub
+
+[Link](https://github.com/OmNexuss/omnexus.com):** Central operations hub and corporate web gateway orchestrating team workflows, technical architectures, and enterprise client solutions.
+
+---
+
 #### 🤖 2. AI Agents & Intelligent Workflow Automation
 - **Autonomous Systems:** Architecting AI agent integrations and automated data pipelines using **n8n** and **LLM models** (OpenAI APIs) to bridge business operations with intelligent automated workflows.
 
@@ -49,9 +55,32 @@ I engineer scalable SaaS ecosystems, enterprise architectures, and AI-driven aut
 - **Tech Stack:** Python, FastAPI, Data Modeling, PostgreSQL
 - **Highlights:** Engineered a data analytics engine to detect market anomalies and commercial gaps using proxy-independent offline data ingestion methodologies.
 
+---
+
 #### 🚀 3. High-Performance SaaS & E-Commerce Architectures
 - **Custom Backends & Microservices:** Designing robust, API-first backends using **FastAPI / Django / Node.js** backed by PostgreSQL and Redis caching structures for high-concurrency environments.
 
+1) 📱 Straxon Qart — Multi-Tenant Operational & Milestone Management Platform
+
+- **Domain:** Corporate Operations & SaaS Architecture
+- **Tech Stack:** Next.js, React, FastAPI, Node.js, PostgreSQL, Tailwind CSS
+- **Highlights:** Built end-to-end multi-tenant SaaS application that optimizes quarterly target planning, operational workflows, and strategic milestone tracking processes with strict data isolation.
+
+2) 🎯 OpenHire — Algorithmic Talent Matching Infrastructure (PoC)
+
+- **Domain:** HR-Tech & Algorithmic Matching Systems
+- **Tech Stack:** React, Next.js, Node.js, Python, PostgreSQL
+- **Highlights:** Engineered a talent matching and recruitment tracking framework featuring modular backend systems and dynamic job-candidate pairing algorithms.
+
+3) 📄 Arch-CV — ATS Resume Engine & OpenHire Integration Data Layer
+- **Domain:** HR-Tech & Ecosystem Data Architecture
+- **Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Node.js
+- **Highlights:** Built an ATS-compliant, machine-readable CV generation platform designed to integrate directly with OpenHire for automated candidate parsing and match analysis.
+
+4) 🛵 Local Food Delivery & Analytics Infrastructure
+- **Domain:** E-Commerce, Local Logistics & Data Analytics
+- **Tech Stack:** Node.js, Next.js, FastAPI, PostgreSQL, Tailwind CSS
+- **Highlights:** Built an extensible, high-performance local food delivery infrastructure that minimizes third-party platform dependencies and supports secure, offline data analysis workflows.
 ---
 
 ### 📊 GitHub Activity & Metrics

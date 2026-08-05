@@ -43,6 +43,12 @@ I engineer scalable SaaS ecosystems, enterprise architectures, and AI-driven aut
 #### 🤖 2. AI Agents & Intelligent Workflow Automation
 - **Autonomous Systems:** Architecting AI agent integrations and automated data pipelines using **n8n** and **LLM models** (OpenAI APIs) to bridge business operations with intelligent automated workflows.
 
+1)🔍 GapHunter — Autonomous Market Gap & Data Analytics Engine
+
+- **Domain:** Data Engineering & Market Intelligence
+- **Tech Stack:** Python, FastAPI, Data Modeling, PostgreSQL
+- **Highlights:** Engineered a data analytics engine to detect market anomalies and commercial gaps using proxy-independent offline data ingestion methodologies.
+
 #### 🚀 3. High-Performance SaaS & E-Commerce Architectures
 - **Custom Backends & Microservices:** Designing robust, API-first backends using **FastAPI / Django / Node.js** backed by PostgreSQL and Redis caching structures for high-concurrency environments.
 
